@@ -1,0 +1,4 @@
+['remote "localRemote"']
+url = ../local:/Users/mark.treveil/devenv/bundle-dvc-remote/PREDICATIVEMAINTENANCE
+[core]
+remote = localRemote
